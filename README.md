@@ -1,4 +1,8 @@
 # AnimationLoginApp
+Images:
+
+![image](https://user-images.githubusercontent.com/87125946/194136583-672b4c4a-f005-4d97-8d94-2d10de08572a.png)
+![image](https://user-images.githubusercontent.com/87125946/194136657-8ae4a59d-bf5c-4e04-9a5e-001958e2731d.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
